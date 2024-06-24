@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366834515898",
+    "project_id": "skilltech-3349e",
+    "storage_bucket": "skilltech-3349e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366834515898:android:0fff6ab3cb765adbe92783",
+        "android_client_info": {
+          "package_name": "com.abhirocksthunder.skillTech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTiwreBdiTqrfRUHnWfIzm12a5munBNzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
